@@ -2,4 +2,4 @@
 * Name: Weiwei
 * Role: Student
 * Blog: [AndyWang|Blog](https://andywang505.github.io/)
-* expertise: web development
+* Expertise: Web Development
