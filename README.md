@@ -4,7 +4,7 @@ Hi👋 , I'm Andy-Wang , or you can call me Weiwei :D
 I am currently learning full-stack technologies and writing about my experiences on my [Blog](https://andywang505.github.io).
 
 * Email: andywang890505@gmail.com
-* website: [AndyWang's Blog](https://andywang505.github.io)
+* Website: [AndyWang's Blog](https://andywang505.github.io)
 
 ## I Code With
 <div align="center">
