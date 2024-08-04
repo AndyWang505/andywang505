@@ -33,6 +33,6 @@ I am currently learning full-stack technologies and writing about my experiences
 	<img width="36" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
 
-## GitHub Status
+## GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyWang505&layout=compact&langs_count=8&theme=solarized-light" alt="AndyWang's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyWang505&show_icons=true&include_all_commits=true&hide_border=true&theme=solarized-light" alt="AndyWang's github stats" />
