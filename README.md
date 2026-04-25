@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
-
 # Andy Wang ࿔ ☘︎
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=800&color=58A6FF&center=false&vCenter=true&width=1000&lines=$+cd+andywangtw;$+git+checkout+-b+feat/dynamic-sitemap;$+pnpm+i;+...++Done+in+1.2s;$+claude;>+Connected+to+Claude+Code;>+/plan+Read+specs.md+and+start+implement;>+⏳+Analyzing+context...;>+✅+Plan+generated.+Executing+steps...;$+pnpm+run+dev" />
