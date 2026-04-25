@@ -1,13 +1,10 @@
-# AndyWang
+# AndyWang ࿔ ☘︎ 
 
-Hi👋, I'm AndyWang, or you can call me Weiwei :D
+_Hi, I'm Andy (Weiwei) — I build modern web applications._
 
-_Currently working on Web Development and sharing technical notes & experiences on my [Blog](https://andywangtw.dev/)._
+_I focus on building practical projects, exploring clean architecture, and sharing technical notes along the way._
 
+- Blog: https://andywangtw.dev
 - Email: andywang890505@gmail.com
-  
-- Website: [andywangtw.dev](https://andywangtw.dev/)
-
-- Keywords: **andywang**, **andywang505**
-  
-- Other Links: [Links](https://andywangtw.dev/link)
+- Link: https://andywangtw.dev/link
+- Keyword: `andywang` · `andywang505`
